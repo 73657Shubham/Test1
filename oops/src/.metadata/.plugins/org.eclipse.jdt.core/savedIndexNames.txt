@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\C-DAC\oops\src\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+3928681059.index
+1865797976.index
